@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+geopandas
+plotly
+scikit-learn
+xgboost
+statsmodels
+scipy
+pandas-profiling
