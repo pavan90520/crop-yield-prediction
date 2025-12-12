@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.env
+.DS_Store
+Dataset/
+assets/
+*.h5
+*.pt
+*.pth
